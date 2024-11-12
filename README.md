@@ -123,11 +123,11 @@ end
       use Ecto.Migration
 
       def up() do 
-        SeedHelper.Migration.up(1)
+        SeedHelper.Migrate.up(1)
       end
    
       def down() do 
-        SeedHelper.Migration.down(1)
+        SeedHelper.Migrate.down(1)
       end
     end
     ```
