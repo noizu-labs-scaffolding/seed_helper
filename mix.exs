@@ -5,7 +5,7 @@ defmodule SeedHelper.MixProject do
     [
       app: :seed_helper,
       name: "Migration SeedHelper",
-      version: "0.1.0",
+      version: "0.1.1",
       package: package(),
       description: description(),
       elixir: "~> 1.10",
@@ -17,7 +17,7 @@ defmodule SeedHelper.MixProject do
   defp docs() do
     [
       main: "readme.md",
-      extras: ["README.md", "LICENSE"]
+      extras: ["README.md", "CHANGELOG.md", "LICENSE"]
     ]
   end
 

@@ -1,4 +1,4 @@
-defmodule SeedHelper.Migrate do
+defmodule SeedHelper.Migration do
   use Ecto.Migration
 
   def up(1) do
@@ -19,5 +19,4 @@ defmodule SeedHelper.Migrate do
     drop table(:seed_helper_handles)
     drop table(:seed_helper_seeds)
   end
-
 end
