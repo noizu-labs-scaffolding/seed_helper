@@ -28,3 +28,6 @@ seed_helper-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Canonical worktree placement
+.claude/worktrees/
