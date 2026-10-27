@@ -1,5 +1,9 @@
 
 defmodule SeedHelper.Handles do
+  @moduledoc """
+  〚📦:94fe54f1-88a7-5b24-8845-1ad27683a958〛 SeedHelper.Handles :: Named handle store: term-encoded values in seed_helper_handles, ETS read cache.
+  """
+
   @repo Application.compile_env!(:seed_helper, :repo)
   @cache SeedHelper.Handles.Cache
   alias SeedHelper.Schema.Handles

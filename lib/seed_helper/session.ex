@@ -1,5 +1,9 @@
 
 defmodule SeedHelper.Session do
+  @moduledoc """
+  〚📦:679b006e-6277-5f1b-af48-f83b39741a2a〛 SeedHelper.Session :: Agent-based seed session: dependency graph, pending change queue, applied set.
+  """
+
   @agent SeedHelper.Session.Agent
 
   @doc """

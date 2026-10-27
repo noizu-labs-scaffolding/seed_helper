@@ -1,3 +1,4 @@
+# 〚📁:97d97e80-384f-5967-978d-1b19def0e341〛 seed_helper mix.exs :: Mix project definition: deps (ecto_sql, elixir_uuid, ex_doc), Hex package metadata.
 defmodule SeedHelper.MixProject do
   use Mix.Project
 
