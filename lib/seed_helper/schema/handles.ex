@@ -1,4 +1,8 @@
 defmodule SeedHelper.Schema.Handles do
+  @moduledoc """
+  〚📦:9c88b2db-5edc-5339-bafc-9df04f70b0ff〛 SeedHelper.Schema.Handles :: Ecto schema for seed_helper_handles keyed by handle.
+  """
+
   use Ecto.Schema
   import Ecto.Changeset
 

@@ -1,4 +1,8 @@
 defmodule SeedHelper.Seeds do
+  @moduledoc """
+  〚📦:3e8a6796-56d1-5419-aebb-c377eb2fdf55〛 SeedHelper.Seeds :: DB-backed idempotency: executed?/1 and mark_executed/1 against seed_helper_seeds.
+  """
+
   @repo Application.compile_env!(:seed_helper, :repo)
   alias SeedHelper.Schema.Seeds
 

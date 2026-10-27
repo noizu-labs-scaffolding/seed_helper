@@ -1,0 +1,122 @@
+---
+pointers:
+  2ea23f18-a7e2-5f96-8351-4d4758b6a960:
+    created_at: 2026-10-27T04:09:21.468329Z
+    description: Ecto schema for seed_helper_seeds composite PK (seed, version).
+    file_path: lib/seed_helper/schema/seeds.ex
+    function: SeedHelper.Schema.Seeds
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/seed_helper/schema/seeds.ex
+        line: 3
+    token: 𓶯𓦲𓙔𓆀
+    updated_at: 2026-10-27T04:09:21.468329Z
+  3e8a6796-56d1-5419-aebb-c377eb2fdf55:
+    created_at: 2026-10-27T04:09:21.468343Z
+    description: 'DB-backed idempotency: executed?/1 and mark_executed/1 against seed_helper_seeds.'
+    file_path: lib/seed_helper/seeds.ex
+    function: SeedHelper.Seeds
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/seed_helper/seeds.ex
+        line: 3
+    token: 𔖨𓗪𓏻𓞕
+    updated_at: 2026-10-27T04:09:21.468343Z
+  6511199b-68a7-54f5-a107-1054f129fc7b:
+    created_at: 2026-10-27T04:09:21.468286Z
+    description: 'Usage guide: tracked seeds, requires_seed, if_env, handles, setup steps.'
+    file_path: README.md
+    function: seed_helper README
+    kind: file
+    line: 4
+    locations:
+      - file_path: README.md
+        line: 4
+    token: 𐦍𓕲𓅤𓣋
+    updated_at: 2026-10-27T04:09:21.468286Z
+  679b006e-6277-5f1b-af48-f83b39741a2a:
+    created_at: 2026-10-27T04:09:21.468339Z
+    description: 'Agent-based seed session: dependency graph, pending change queue, applied set.'
+    file_path: lib/seed_helper/session.ex
+    function: SeedHelper.Session
+    kind: module
+    line: 4
+    locations:
+      - file_path: lib/seed_helper/session.ex
+        line: 4
+    token: 𔓋𓗰𓼂𔑚
+    updated_at: 2026-10-27T04:09:21.468339Z
+  6fddcf26-ba21-5c29-965d-63c4d68a8e0a:
+    created_at: 2026-10-27T04:09:21.468336Z
+    description: 'Public macro API: seed/requires_seed/if_env, set_handle/handle, session lifecycle.'
+    file_path: lib/seed_helper.ex
+    function: SeedHelper Public Macro API
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/seed_helper.ex
+        line: 3
+    token: 𔑷𔆳𓬣𔃊
+    updated_at: 2026-10-27T04:09:21.468336Z
+  94fe54f1-88a7-5b24-8845-1ad27683a958:
+    created_at: 2026-10-27T04:09:21.468325Z
+    description: 'Named handle store: term-encoded values in seed_helper_handles, ETS read cache.'
+    file_path: lib/seed_helper/handles.ex
+    function: SeedHelper.Handles
+    kind: module
+    line: 4
+    locations:
+      - file_path: lib/seed_helper/handles.ex
+        line: 4
+    token: 𓭑𔆪𓠺𔄈
+    updated_at: 2026-10-27T04:09:21.468325Z
+  97d97e80-384f-5967-978d-1b19def0e341:
+    created_at: 2026-10-27T04:09:21.468306Z
+    description: 'Mix project definition: deps (ecto_sql, elixir_uuid, ex_doc), Hex package metadata.'
+    file_path: mix.exs
+    function: seed_helper mix.exs
+    kind: file
+    line: 1
+    locations:
+      - file_path: mix.exs
+        line: 1
+    token: 𓁆𓰡𔒤𓦑
+    updated_at: 2026-10-27T04:09:21.468306Z
+  9c88b2db-5edc-5339-bafc-9df04f70b0ff:
+    created_at: 2026-10-27T04:09:21.468315Z
+    description: Ecto schema for seed_helper_handles keyed by handle.
+    file_path: lib/seed_helper/schema/handles.ex
+    function: SeedHelper.Schema.Handles
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/seed_helper/schema/handles.ex
+        line: 3
+    token: 𓦾𓲙𔃓𓂏
+    updated_at: 2026-10-27T04:09:21.468315Z
+  ba4b20d7-c2df-5377-b1d5-3faa0bddb630:
+    created_at: 2026-10-27T04:09:21.468311Z
+    description: 'App config: compile-time :seed_helper repo module binding.'
+    file_path: config/config.exs
+    function: seed_helper config.exs
+    kind: file
+    line: 3
+    locations:
+      - file_path: config/config.exs
+        line: 3
+    token: 𓐦𓰣𔋽𓶐
+    updated_at: 2026-10-27T04:09:21.468311Z
+  e0927cc0-29f3-5b00-995d-be095126776a:
+    created_at: 2026-10-27T04:09:21.468332Z
+    description: Ecto migration up(1)/down(1) creating seed_helper_seeds and seed_helper_handles.
+    file_path: lib/seed_helper/migration.ex
+    function: SeedHelper.Migration
+    kind: module
+    line: 3
+    locations:
+      - file_path: lib/seed_helper/migration.ex
+        line: 3
+    token: 𔈒𓇆𓫎𓩚
+    updated_at: 2026-10-27T04:09:21.468332Z

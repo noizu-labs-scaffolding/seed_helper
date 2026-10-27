@@ -1,4 +1,7 @@
 defmodule SeedHelper do
+  @moduledoc """
+  〚📦:6fddcf26-ba21-5c29-965d-63c4d68a8e0a〛 SeedHelper Public Macro API :: Public macro API: seed/requires_seed/if_env, set_handle/handle, session lifecycle.
+  """
 
   @doc """
   Set a handle to a value for reference by other seeds.

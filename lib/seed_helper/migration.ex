@@ -1,4 +1,8 @@
 defmodule SeedHelper.Migration do
+  @moduledoc """
+  〚📦:e0927cc0-29f3-5b00-995d-be095126776a〛 SeedHelper.Migration :: Ecto migration up(1)/down(1) creating seed_helper_seeds and seed_helper_handles.
+  """
+
   use Ecto.Migration
 
   def up(1) do

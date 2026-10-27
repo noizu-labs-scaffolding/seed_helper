@@ -1,6 +1,8 @@
 SeedHelper
 ===========
 
+<!-- 〚📁:6511199b-68a7-54f5-a107-1054f129fc7b〛 seed_helper README :: Usage guide: tracked seeds, requires_seed, if_env, handles, setup steps. -->
+
 SeedHelper provides some simple schem and utilities for supporting incremental seeding of data in Ecto with out requiring a full 
 teardown/setup to obtain consistent data sets.
 
